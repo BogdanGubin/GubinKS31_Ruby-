@@ -1,0 +1,2 @@
+gem 'my_gem', path: 'C:/Users/Губин/OneDrive/Рабочий стол/ruby/ruby_gem/ruby_gems/my_gem'
+gem 'roo'
